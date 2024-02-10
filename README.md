@@ -4,6 +4,8 @@ Welcome to Vishakha's Portfolio!
 
 This portfolio showcases my skills, projects, and experiences as a Freelancer Web Project.
 
+![Screenshot](screenshot.png)
+
 ## Table of Contents
 
 1. About Me
