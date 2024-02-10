@@ -333,13 +333,18 @@ section:nth-child(2n+1){
     padding: 10px;
 }
 
-.portfolio-image-container:hover {
+.portfolio-image-container a:hover {
     box-shadow: 0 0 20px #74ADC8;
+    cursor: pointer;
 }
 
-.portfolio-image-container:hover .portfolio-details {
+.portfolio-image-container a:hover .portfolio-details {
     background-color: #80808078;
-    color: white;
+    color: #fff;
+    width:100%;
+    height: auto;
+    cursor: pointer;
+    text-decoration: none;
 }
 /*-- Portfolio --*/
 
