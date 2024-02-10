@@ -1,5 +1,3 @@
-Portfolio README
-
 Welcome to Vishakha's Portfolio!
 
 This portfolio showcases my skills, projects, and experiences as a Freelancer Web Project.
