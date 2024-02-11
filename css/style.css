@@ -464,7 +464,7 @@ button:focus {
 
 /*-- scroll to top --*/
 button#scrollToTopBtn {
-  display: none;
+  /*display: none;*/
   position: fixed;
   bottom: 20px;
   right: 20px;
@@ -475,6 +475,7 @@ button#scrollToTopBtn {
   outline: none;
   cursor: pointer;
   border-radius: 50%;
+  overflow: hidden;
 }
 /*-- scroll to top --*/
 
