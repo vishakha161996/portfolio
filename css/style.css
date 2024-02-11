@@ -463,7 +463,7 @@ button:focus {
 /*-- Contact form --*/
 
 /*-- scroll to top --*/
-button#scrollToTopBtn {
+#scrollToTopBtn {
   /*display: none;*/
   position: fixed;
   bottom: 20px;
