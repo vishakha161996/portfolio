@@ -68,12 +68,17 @@ Description: A modern diagnostic centre login page offering streamlined access f
 Skills/Technologies Used: HTML | CSS | JS | PHP
 Link: http://mypankh.org/
 
-### Project 8: [Alarm Clock]
+### Project 8: [SuperHero Hunter]
+
+Description: Superhero Hunter is a web application that utilizes the Superhero API to fetch data about various superheroes. Users can search for superheroes by name and view details such as their biography, appearance, powers, and more.
+Skills/Technologies Used: HTML | CSS | JS 
+Link: https://vishakha161996.github.io/superhero-hunter/
+
+### Project 9: [Alarm Clock]
 
 Description: Alarm Clock is a simple and elegant web application that lets you set multiple alarms with custom time and description. You can also receive visual and audio notifications when the alarm goes off, and delete alarms that you don’t need anymore.
 Skills/Technologies Used: HTML | CSS | JS
 Link: https://vishakha161996.github.io/alarm-clock/
-
 
 ## 4. Education
 
