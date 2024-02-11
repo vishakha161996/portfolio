@@ -482,3 +482,104 @@ button:focus {
 
 /*-- Main --*/
 /*----------------------------------------------------------------------*/
+
+
+/*--- Media Query ---*/
+/*-- Media Queries --*/
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 20px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .name-social-container {
+    margin-top: 10vh;
+  }
+  
+  .nav-heading {
+    font-size: 2rem;
+  }
+  
+  .social-icon li a i {
+    font-size: 0.8rem;
+  }
+  
+  #my-image {
+    height: 8rem;
+    width: 8rem;
+    margin-top: -14vh;
+  }
+  
+  #about p {
+    font-size: 1rem;
+  }
+  
+  .skill-progress {
+    width: 90%;
+  }
+  
+  .timeline {
+    width: 90%;
+  }
+  
+  .timeline-box {
+    width: 85%;
+    left: 5%;
+  }
+  
+  .portfolio-container {
+    padding: 0 10px;
+  }
+  
+  .portfolio-image-container {
+    max-width: 300px;
+  }
+  
+  #contact-form {
+    margin-left: 5%;
+  }
+  
+  #my-details-container {
+    width: 90%;
+    margin-left: 5%;
+  }
+  
+  #contact-form-container {
+    width: 90%;
+  }
+  
+  #contact-form button[type="submit"] {
+    margin-left: 5%;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  /* Styles */
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  /* Styles */
+  header-right img {
+    	margin-top: 150px;
+	}
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  /* Styles */
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  /* Styles */
+}
+
+/*-- Media Queries --*/
+
