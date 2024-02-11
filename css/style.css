@@ -462,5 +462,22 @@ button:focus {
 }
 /*-- Contact form --*/
 
+/*-- scroll to top --*/
+button#scrollToTopBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
+  font-size: 50px;
+  color: #ec4d1d;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 50%;
+}
+/*-- scroll to top --*/
+
+
 /*-- Main --*/
 /*----------------------------------------------------------------------*/
