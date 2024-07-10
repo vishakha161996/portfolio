@@ -22,29 +22,33 @@ body{
 /* Common colors */
 .mb-blue{
 	background-color: #2857a4;
+  text-align: center;
 }
 .mb-orange{
-	background-color: #ec4d1c;
+	background-color: #eb822d;
+  text-align: center;
 }
 .mb-purple{
 	background-color: purple;
+  text-align: center;
 }
 .mb-green{
 	background-color: green;
+  text-align: center;
 }
 /* Common colors */
 
 /* Common percentage */
-.eighty-five-percent{
-	width: 85%;
+.medium{
+	width: 40%;
 	height: inherit;
 }
-.fifty-percent{
+.half{
 	width: 50%;
 	height: inherit;
 }
-.fifty-five-percent{
-	width: 55%;
+.full{
+	width: 90%;
 	height: inherit;
 }
 /* Common percentage */
